@@ -92,7 +92,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
     
     Carol Bentes
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/caroline-bentes-89ba28160/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/carolbentes)
     
     Martha Lucena
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/martha-lucena-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-54866195?trk=public_profile_browsemap)
