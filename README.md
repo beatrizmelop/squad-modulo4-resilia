@@ -87,7 +87,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
 ## 🤝 DESENVOLVEDORES
 
     Beatriz Melo:  Desenvolvimento de perguntas e códigos 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)(https://br.linkedin.com/in/beatrizmelop/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/beatrizmelop/)
     
     Carol Bentes: Desenvolvimento de perguntas e criação da apresentação.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/caroline-bentes-89ba28160/)
