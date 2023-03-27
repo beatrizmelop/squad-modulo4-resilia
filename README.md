@@ -86,23 +86,23 @@ EXECUTAMOS OS SEGUINTES FILTROS
 
 ## 🤝 DESENVOLVEDORES
 
-    Beatriz Melo:  Desenvolvimento de perguntas e códigos 
+    Beatriz Melo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&%22width=%2260&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/beatrizmelop/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/beatrizmelop)
     
-    Carol Bentes: Desenvolvimento de perguntas e criação da apresentação.
+    Carol Bentes
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/caroline-bentes-89ba28160/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/)
     
-    Martha Lucena: Desenvolvimento de perguntas e criação da apresentação. 
+    Martha Lucena
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/martha-lucena-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-54866195?trk=public_profile_browsemap)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/SuzBarbosa)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/MarthaLucena)
     
-    Rayssa Cadilhe: Desenvolvimento de perguntas, códigos no MySQL e diagrama de entidade e relacionamento.
+    Rayssa Cadilhe
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/rayssacadilhe/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/raycadilhe)
     
-    Suzana Barbosa: Desenvolvimento de perguntas e criação do README
+    Suzana Barbosa
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/suzanacobarbosa)
-   
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)](https://github.com/SuzBarbosa)
 
