@@ -2,12 +2,14 @@
 
 CONTEXTO: Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. O conjunto de dados disponíveis podem ser encontrados aqui:https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing.
 
+# 🧭 OBJETIVO
+
 ⇨ Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados. 
 
 Nosso projeto tem como objetivo a realização de uma análise de dados relacionado ao software de gestão de direitos digitais Steam. Por essa plataforma, que é a mais popular dessa categoria, é possível comprar, armazenar e executar jogos para computador.
 Dessa forma, com base no banco de dados fornecido previamente, executamos o software MySQL filtragem de dados. 
 
-🔧 Tecnologias usadas:
+# 🔧 Tecnologias usadas:
 
     Power BI
     Workbench
@@ -34,7 +36,9 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
 # 🔖 RESULTADOS
 
 Obtivemos o seguinte Dashboard 
-https://github.com/raycadilhe/squad-modulo4-resilia/blob/main/dashboard.JPG?raw=true
+
+<img src="(https://github.com/raycadilhe/squad-modulo4-resilia/blob/main/dashboard.JPG?raw=true)" width="90" height="50" />
+
 
 EXECUTAMOS OS SEGUINTES FILTROS 
 
