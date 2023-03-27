@@ -1,8 +1,8 @@
-# Resilia: Projeto M4 - Visualizando a situação
+## Resilia: Projeto M4 - Visualizando a situação
 
 CONTEXTO: Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. O conjunto de dados disponíveis podem ser encontrados aqui:https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing.
 
-# 🧭 OBJETIVO
+## 🧭 OBJETIVO
 
 Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados. Escolhemos pela análise de dados relacionado ao software de gestão de direitos digitais Steam. Por essa plataforma, que é a mais popular dessa categoria, é possível comprar, armazenar e executar jogos para computador.
 Dessa forma, com base no banco de dados fornecido previamente, executamos o software MySQL Workbench e Power BI.
@@ -12,7 +12,7 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
     Power BI
     Workbench
 
-# 📝 Etapas
+## 📝 Etapas
 
     Busca dos dados;
     Criação de perguntas;
@@ -21,7 +21,7 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
     Criação do diagrama de entidade e relacionamento;
     Criação da Apresentação.
 
-# 📋 Perguntas
+## 📋 Perguntas
 
  Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selecionamos as seguintes perguntas:
 
@@ -31,7 +31,7 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
     •	Qual desenvolvedora tem mais jogos na steam? (5 maiores)
     •	Qual a quantidade de jogos em cada gênero? (10 maiores)
 
-# 🔖 RESULTADOS
+## 🔖 RESULTADOS
 
 Obtivemos o seguinte Dashboard 
 
@@ -84,7 +84,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
 
 
 
-# NOSSA EQUIPE
+## 🤝 DESENVOLVEDORES
 
     Beatriz Melo:  Desenvolvimento de perguntas, códigos e criação do README.
     
