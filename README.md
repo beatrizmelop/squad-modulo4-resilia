@@ -37,7 +37,7 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
 
 Obtivemos o seguinte Dashboard 
 
-<img src="(https://github.com/raycadilhe/squad-modulo4-resilia/blob/main/dashboard.JPG?raw=true)" width="90" height="50" />
+![DASHBOARD](https://github.com/raycadilhe/squad-modulo4-resilia/blob/main/dashboard.JPG?raw=true)
 
 
 EXECUTAMOS OS SEGUINTES FILTROS 
