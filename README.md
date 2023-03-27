@@ -88,8 +88,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
 
     Beatriz Melo:  Desenvolvimento de perguntas e códigos 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/beatrizmelop/)
-
-     <a href="https://github.com/lucasCanella" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/></a></a>
+     <a href="https://github.com/lucasCanella" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/></a>
     
     Carol Bentes: Desenvolvimento de perguntas e criação da apresentação.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/caroline-bentes-89ba28160/)
