@@ -86,14 +86,19 @@ EXECUTAMOS OS SEGUINTES FILTROS
 
 ## 🤝 DESENVOLVEDORES
 
-    Beatriz Melo:  Desenvolvimento de perguntas, códigos e criação do README.
+    Beatriz Melo:  Desenvolvimento de perguntas e códigos 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)(https://br.linkedin.com/in/beatrizmelop/)
     
     Carol Bentes: Desenvolvimento de perguntas e criação da apresentação.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/caroline-bentes-89ba28160/)
     
     Martha Lucena: Desenvolvimento de perguntas e criação da apresentação. 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://br.linkedin.com/in/martha-lucena-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-54866195?trk=public_profile_browsemap)
     
     Rayssa Cadilhe: Desenvolvimento de perguntas, códigos no MySQL e diagrama de entidade e relacionamento.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/rayssacadilhe/)
     
-    Suzana Barbosa: Desenvolvimento de perguntas e criação do dashboard.
+    Suzana Barbosa: Desenvolvimento de perguntas e criação do README
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/suzanacobarbosa)
    
 
