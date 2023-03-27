@@ -7,7 +7,7 @@ CONTEXTO: Temos um problema e precisaremos da sua ajuda para resolver! Acumulamo
 Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados. Escolhemos pela análise de dados relacionado ao software de gestão de direitos digitais Steam. Por essa plataforma, que é a mais popular dessa categoria, é possível comprar, armazenar e executar jogos para computador.
 Dessa forma, com base no banco de dados fornecido previamente, executamos o software MySQL Workbench e Power BI.
 
-# 🔧 Tecnologias usadas:
+## 🔧 Tecnologias usadas:
 
     Power BI
     Workbench
