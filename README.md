@@ -45,7 +45,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
             ORDER BY average_playtime DESC
             LIMIT 5
             
-             ![PERGUNTA1](https://user-images.githubusercontent.com/115670321/228081553-ee2dc6e3-c92d-46be-87d8-ef4703f56426.png)
+![PERGUNTA1](https://user-images.githubusercontent.com/115670321/228081553-ee2dc6e3-c92d-46be-87d8-ef4703f56426.png)
 
 
     •	Quais os 5 jogos mais caros?
@@ -53,7 +53,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
             ORDER BY price DESC
             LIMIT 5
             
-             ![PERGUNTA2](https://user-images.githubusercontent.com/115670321/228081456-81d3d792-3d1c-42b9-ae96-1c6d43345a40.png)
+![PERGUNTA2](https://user-images.githubusercontent.com/115670321/228081456-81d3d792-3d1c-42b9-ae96-1c6d43345a40.png)
 
 
     •	Quais os 5 jogos mais mal avaliados?
@@ -70,7 +70,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
             ORDER BY Quantidade_jogos DESC
             LIMIT 5
             
-         (![PERGUNTA4](https://user-images.githubusercontent.com/115670321/228081170-2151de09-c1f1-41d4-98f9-63667505df4e.png)
+(![PERGUNTA4](https://user-images.githubusercontent.com/115670321/228081170-2151de09-c1f1-41d4-98f9-63667505df4e.png)
 
 
     
@@ -80,7 +80,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
             ORDER BY Quantidade_jogos DESC
             LIMIT 10
             
-        (![PERGUNTA5](https://user-images.githubusercontent.com/115670321/228081094-9aefd323-dd77-4e30-9ad0-add6e5b9bdba.png)
+(![PERGUNTA5](https://user-images.githubusercontent.com/115670321/228081094-9aefd323-dd77-4e30-9ad0-add6e5b9bdba.png)
 
 
 
