@@ -1,4 +1,4 @@
-# Resilia [Data Analytics]: Projeto M4 - Visualizando a situação
+# Resilia: Projeto M4 - Visualizando a situação
 
 CONTEXTO: Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. O conjunto de dados disponíveis podem ser encontrados aqui:https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing.
 
@@ -61,7 +61,7 @@ EXECUTAMOS OS SEGUINTES FILTROS
             ORDER BY negative_ratings DESC
             LIMIT 5
             
-            ![PERGUNTA3](https://user-images.githubusercontent.com/115670321/228081422-e79713c9-1fa6-4f98-a361-b4010364c01d.png)
+![PERGUNTA3](https://user-images.githubusercontent.com/115670321/228081422-e79713c9-1fa6-4f98-a361-b4010364c01d.png)
 
 
     •	Qual desenvolvedora tem mais jogos na steam? (5 maiores)
