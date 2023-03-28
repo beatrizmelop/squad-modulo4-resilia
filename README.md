@@ -9,7 +9,7 @@ Dessa forma, com base no banco de dados fornecido previamente, executamos o soft
 
 ## 🔧 Tecnologias usadas:
 
-    Power BI
+    Excel
     Workbench
 
 ## 📝 Etapas
