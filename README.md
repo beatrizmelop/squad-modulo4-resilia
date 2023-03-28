@@ -41,46 +41,46 @@ Obtivemos o seguinte Dashboard
 EXECUTAMOS OS SEGUINTES FILTROS 
 
     •	Quais os 5 jogos mais jogados?
-            SELECT name AS 'Titulo do Jogo', average_playtime AS 'Media de tempo jogado' FROM steam
-            ORDER BY average_playtime DESC
-            LIMIT 5
-            
-![PERGUNTA1](https://user-images.githubusercontent.com/115670321/228081553-ee2dc6e3-c92d-46be-87d8-ef4703f56426.png)
+                SELECT name AS 'Titulo do Jogo', average_playtime AS 'Media de tempo jogado' FROM steam
+                ORDER BY average_playtime DESC
+                LIMIT 5
+
+    ![PERGUNTA1](https://user-images.githubusercontent.com/115670321/228081553-ee2dc6e3-c92d-46be-87d8-ef4703f56426.png)
 
 
     •	Quais os 5 jogos mais caros?
-            SELECT name AS 'Titulo do jogo', price AS 'Preco' FROM steam
-            ORDER BY price DESC
-            LIMIT 5
-            
-![PERGUNTA2](https://user-images.githubusercontent.com/115670321/228081456-81d3d792-3d1c-42b9-ae96-1c6d43345a40.png)
+                SELECT name AS 'Titulo do jogo', price AS 'Preco' FROM steam
+                ORDER BY price DESC
+                LIMIT 5
+
+    ![PERGUNTA2](https://user-images.githubusercontent.com/115670321/228081456-81d3d792-3d1c-42b9-ae96-1c6d43345a40.png)
 
 
     •	Quais os 5 jogos mais mal avaliados?
-            SELECT name AS 'Titulo do Jogo', negative_ratings AS 'Avaliacoes negativas' FROM steam
-            ORDER BY negative_ratings DESC
-            LIMIT 5
-            
-![PERGUNTA3](https://user-images.githubusercontent.com/115670321/228081422-e79713c9-1fa6-4f98-a361-b4010364c01d.png)
+                SELECT name AS 'Titulo do Jogo', negative_ratings AS 'Avaliacoes negativas' FROM steam
+                ORDER BY negative_ratings DESC
+                LIMIT 5
+
+    ![PERGUNTA3](https://user-images.githubusercontent.com/115670321/228081422-e79713c9-1fa6-4f98-a361-b4010364c01d.png)
 
 
     •	Qual desenvolvedora tem mais jogos na steam? (5 maiores)
-            SELECT developer AS 'Desenvolvedora', COUNT(name) AS Quantidade_jogos FROM steam
-            GROUP BY developer
-            ORDER BY Quantidade_jogos DESC
-            LIMIT 5
-            
-![PERGUNTA4](https://user-images.githubusercontent.com/115670321/228081170-2151de09-c1f1-41d4-98f9-63667505df4e.png)
+                SELECT developer AS 'Desenvolvedora', COUNT(name) AS Quantidade_jogos FROM steam
+                GROUP BY developer
+                ORDER BY Quantidade_jogos DESC
+                LIMIT 5
+
+    ![PERGUNTA4](https://user-images.githubusercontent.com/115670321/228081170-2151de09-c1f1-41d4-98f9-63667505df4e.png)
 
 
     
     •	Qual a quantidade de jogos em cada gênero? (10 maiores)
-            SELECT genres AS Genero, COUNT(genres) AS Quantidade_jogos FROM steam
-            GROUP BY Genero
-            ORDER BY Quantidade_jogos DESC
-            LIMIT 10
-            
-![PERGUNTA5](https://user-images.githubusercontent.com/115670321/228081094-9aefd323-dd77-4e30-9ad0-add6e5b9bdba.png)
+                SELECT genres AS Genero, COUNT(genres) AS Quantidade_jogos FROM steam
+                GROUP BY Genero
+                ORDER BY Quantidade_jogos DESC
+                LIMIT 10
+
+    ![PERGUNTA5](https://user-images.githubusercontent.com/115670321/228081094-9aefd323-dd77-4e30-9ad0-add6e5b9bdba.png)
 
 
 
